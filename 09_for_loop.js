@@ -2,13 +2,13 @@
 
 // JS pgm to find sum if n numbers
 
-// let n = 5;
-// let sum = 0;
-// for (let i = 1; i <= n; i++) {
-//     sum = sum + i;
-// }
+ let n = 5;
+ let sum = 0;
+ for (let i = 1; i <= n; i++) {
+     sum = sum + i;
+ }
 
-// console.log("Sum of " + n + " is : " + sum);
+ console.log("Sum of " + n + " is : " + sum);
 
 // for-in loop 
 
